@@ -5,6 +5,7 @@
 MATLAB demo code intended as a companion to the book:  
 
 
+
 Data Driven Science & Engineering: Machine Learning, Dynamical Systems, and Control  
 by S. L. Brunton and J. N. Kutz  
 Cambridge Textbook, 2019  
